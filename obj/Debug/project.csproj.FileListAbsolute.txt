@@ -1,0 +1,10 @@
+E:\c# program\project\project\bin\Debug\project.exe.config
+E:\c# program\project\project\bin\Debug\project.exe
+E:\c# program\project\project\bin\Debug\project.pdb
+E:\c# program\project\project\obj\Debug\project.csprojAssemblyReference.cache
+E:\c# program\project\project\obj\Debug\project.culculatar.resources
+E:\c# program\project\project\obj\Debug\project.Properties.Resources.resources
+E:\c# program\project\project\obj\Debug\project.csproj.GenerateResource.cache
+E:\c# program\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+E:\c# program\project\project\obj\Debug\project.exe
+E:\c# program\project\project\obj\Debug\project.pdb
